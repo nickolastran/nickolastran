@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am a recent graduate from the University of California, Santa Cruz majoring in Computer Science and minoring in Applied Mathematics.
+I'm a software engineer and recent UC Santa Cruz graduate (B.S. in Computer Science, Minor in Applied Mathematics) building full-stack web applications and machine learning pipelines.
 
 
-- I work with `.ts`, `.tsx`, and `.py` for the majority of projects
-- I love to explore data analytics in sports through reinforced learning and visualizations
-- I am also focused on full-stack engineering
-- You can reach me at: nickolastran04@gmail.com
+- Core Stack: `.ts`, `.tsx`, `.py`, Next.js, React, FastAPI, and SQL
+- Focus Areas: Full-stack engineering, predictive modeling, and reinforcement learning
+- Current Interests: Exploring sports analytics through data visualization and ML simulations
+- Portfolio & Links: nickolastran.vercel.app | nickolastran04@gmail.com
